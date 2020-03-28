@@ -1,16 +1,14 @@
-# flutter_app_cva
+# CVA
 
-A new Flutter application.
+CVA is an application where you can gather information about COVID-19 outbreak.
 
-## Getting Started
+With this application:
 
-This project is a starting point for a Flutter application.
+- Learn what are the symptoms
+- Graphic information by countries with monthly.
+- Updated every day
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1584698988](https://user-images.githubusercontent.com/23746859/77820594-88c56800-7137-11ea-8842-ddaba502ac85.png)
+![Screenshot_1584699013](https://user-images.githubusercontent.com/23746859/77820595-89f69500-7137-11ea-9bc1-7e3d203656ac.png)
+![Screenshot_1584699029](https://user-images.githubusercontent.com/23746859/77820598-911da300-7137-11ea-9435-c2c334f9ece0.png)
+![Screenshot_1584699051](https://user-images.githubusercontent.com/23746859/77820591-85ca7780-7137-11ea-80dd-2b2e1bd9f719.png)
