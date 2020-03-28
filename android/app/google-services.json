@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "551387977600",
+    "firebase_url": "https://seniorproject-67e05.firebaseio.com",
+    "project_id": "seniorproject-67e05",
+    "storage_bucket": "seniorproject-67e05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551387977600:android:1cf3fd41eda9975be69365",
+        "android_client_info": {
+          "package_name": "com.lastmentor.flutter_app_cva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551387977600-c3m4tanfhcbgj0bqv2cvhp9hfarpsbso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd2Qper3XVPWwirtRfCv_dyax-rAb4_W4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551387977600-c3m4tanfhcbgj0bqv2cvhp9hfarpsbso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
